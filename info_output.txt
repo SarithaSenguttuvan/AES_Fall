@@ -1,0 +1,28 @@
+ Operating system type: 
+Linux
+
+
+ OS Distribution: 
+	Ubuntu 16.04.3 LTS
+
+
+ Kernel Version: 
+4.12.10 GNU/Linux
+
+
+ Information on the kernel build: 
+Linux version 4.12.10 (osboxes@osboxes) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ) #1 SMP Thu Sep 7 23:32:11 EDT 2017
+
+
+ Kernel gcc version build: 
+gcc version 5.4.0 20160609 
+
+
+ Kernel build time: 
+#1 SMP Thu Sep 7 23:32:11 EDT 2017
+
+
+ System Architecture information: 
+x86_64
+
+
