@@ -1,6 +1,0 @@
-Name: cmocka
-Description: The cmocka unit testing library
-Version: 1.1.0
-Libs: -L/home/saritha/Fall_2017/AES/unit_tests/3rd-party/build-Debug/lib -lcmocka
-Cflags: -I/home/saritha/Fall_2017/AES/unit_tests/3rd-party/build-Debug/include
-
